@@ -141,7 +141,6 @@ function cors_init() {
       }
     }
   }
-//  dpm($headers);
 }
 
 /**
