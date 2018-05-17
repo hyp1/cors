@@ -1,0 +1,7 @@
+name = CORS
+description = Enable Cross Site Request Origin Headers.
+backdrop = 1.x
+package = Services
+type = module
+dependencies[] = services
+configure = admin/config/services/cors
